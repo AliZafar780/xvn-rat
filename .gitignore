@@ -94,8 +94,9 @@ Thumbs.db
 # Linux
 *~
 
-# Test files
+# Test files (but allow test_advanced.py)
 test_*.py
+!test_advanced.py
 *_test.py
 
 # Backup files
